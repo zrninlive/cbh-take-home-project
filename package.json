@@ -1,0 +1,21 @@
+{
+  "name": "cbh-take-home-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "start": "node index.js",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.29.2"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "jspdf": "^2.5.1",
+    "slugify": "^1.6.5"
+  }
+}
